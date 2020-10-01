@@ -2,7 +2,7 @@
 [CSS Final work](https://pierreweets.github.io/final_CSS/index.html).
 
 # Exercice
-[Requiements](https://github.com/becodeorg/CRL-Woods-3.21/tree/master/LearningPath/01.The-Field/07.Responsive#5-challenge)
+[Requirements](https://github.com/becodeorg/CRL-Woods-3.21/tree/master/LearningPath/01.The-Field/07.Responsive#5-challenge)
 
 # points of interest
 * use of different parts of Css 
